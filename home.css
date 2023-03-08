@@ -1,0 +1,32 @@
+* {
+     padding: 0;
+     	margin: 0;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: black;
+}
+      
+::-webkit-scrollbar {
+     height: 0;
+     width: 0;
+}
+    
+img {
+    	width: 100vw;
+}
+      
+a {
+    	display: block;
+    	background-color: darkred;
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+}
+      
+a:houver {
+    	background-color: red;
+}    
